@@ -16,7 +16,7 @@ Infill Overhang over Extrusion Width (ratio):	0.05
 Interface Feed Rate Multiplier (ratio):	1.0
 Interface Flow Rate Multiplier (ratio):	1.0
 Interface Infill Density (ratio):	0.6
-Interface Layer Thickness over Layer Thickness:	0.75
+Interface Layer Thickness over Layer Thickness:	1
 Interface Layers (integer):	1
 Interface Nozzle Lift over Interface Layer Thickness (ratio):	0.45
 Object First Layer Feed Rate Infill Multiplier (ratio):	0.8
