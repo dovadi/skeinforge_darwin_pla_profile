@@ -1,4 +1,4 @@
-h1. Skeinforge profile RepRap Darwin ABS
+h1. Skeinforge profile RepRap Darwin PLA
 
 h2. Description:
 
